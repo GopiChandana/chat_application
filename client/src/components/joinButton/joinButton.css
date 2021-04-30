@@ -1,0 +1,78 @@
+html, body {
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #root {
+    height: 100vh;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .joinOuterContainer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    align-items: center;
+    background-image: url("https://onlyvectorbackgrounds.com/wp-content/uploads/2019/01/Simple-Vector-Geometric-Background-Black.jpg");
+    background-size:cover;
+  }
+  
+  .joinInnerContainer {
+    width: 20%;
+    
+  }
+  
+  .joinInput {
+    border-radius: 0;
+    padding: 15px 20px;
+    width: 100%;
+  }
+  
+  .heading {
+    color: white;
+    font-size: 2.5em;
+    /* padding-bottom: 10px; */
+    /* border-bo: 2px solid white; */
+  }
+  .heading2{
+    color: white;
+    padding-bottom: 10px;
+  }
+  .button {
+      color: #fff !important;
+      text-transform: uppercase;
+      text-decoration: none;
+      background: #2b2a2a;
+      padding: 17px;
+      border-radius: 5px;
+      display: inline-block;
+      border: none;
+      width: 100%;
+      font-weight: bold;
+      font-size: 16px;
+  }
+  
+  .mt-20 {
+    margin-top: 20px;
+  }
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    .joinOuterContainer {
+      height: 100%;
+    }
+  
+    .joinInnerContainer {
+      width: 90%;
+    }
+  
+  
+  }
+  
+  button:focus {
+    outline: 0;
+  }
