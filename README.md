@@ -13,8 +13,7 @@
 This project was created to develop understanding with socket.io and real time communication.
 
 ## Screenshots
-![Main Page](https://github.com/ranjithkumark8/jusChat/blob/master/images/Landing%20Page.jpg?raw=true)
-![Chat Room](https://github.com/ranjithkumark8/jusChat/blob/master/images/Chat%20Room.jpg?raw=true)
+
 
 ## Technologies
 ### Frontend
