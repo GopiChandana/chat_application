@@ -31,7 +31,7 @@ To Run locally, firstly you need to clone the project use below command to clone
 git clone https://github.com/GopiChandana/chat_application.git <your_directory_name>
 ```
 * Nagivate to the client folder and install required packages using ```npm install``` and run the application using ```npm start```
-* Similarly, navigate to server folder and install required packages using ```npm install``` and run the server using ```npm run server```
+* Similarly, navigate to server folder and install required packages using ```npm install``` and run the server using ```npm start```
 ## Features
 * Live conversations
 * text to emoji conversion
