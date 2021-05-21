@@ -16,7 +16,7 @@
 * React
 * React-emoji
 * socket.io-client
-* react-scroll-to-bottom
+* React-scroll-to-bottom
 ### Backend
 * Express
 * socket.io
@@ -30,7 +30,7 @@ git clone https://github.com/GopiChandana/chat_application.git <your_directory_n
 * Similarly, navigate to server folder and install required packages using ```npm install``` and run the server using ```npm start```
 ## Features
 * Live conversations
-* text to emoji conversion
+* Text to emoji conversion
 * Notifications from admin when someone leaves the group or joins the group.
 * Smooth scrollable feature.
 
