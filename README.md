@@ -9,7 +9,7 @@
 
 
 ## Screenshots
-
+![Landing Page](https://github.com/GopiChandana/chat_application/blob/master/Screenshots/Screenshot%20(4126).png?raw=true)
 
 ## Technologies
 ### Frontend
