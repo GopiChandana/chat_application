@@ -10,11 +10,17 @@
 
 ## Screenshots
 ![Landing Page](https://github.com/GopiChandana/chat_application/blob/master/Screenshots/Screenshot%20(4126).png?raw=true)
+
 ![ Page1](https://github.com/GopiChandana/chat_application/blob/master/Screenshots/Screenshot%20(4127).png?raw=true)
+
 ![Page2](https://github.com/GopiChandana/chat_application/blob/master/Screenshots/Screenshot%20(4128).png?raw=true)
+
 ![Page3](https://github.com/GopiChandana/chat_application/blob/master/Screenshots/Screenshot%20(4129).png?raw=true)
+
 ![Page4](https://github.com/GopiChandana/chat_application/blob/master/Screenshots/Screenshot%20(4130).png?raw=true)
+
 ![Page5](https://github.com/GopiChandana/chat_application/blob/master/Screenshots/Screenshot%20(4132).png?raw=true)
+
 
 ## Technologies
 ### Frontend
