@@ -2,15 +2,11 @@
 > A Real Time Chat Application powered by Socket.io and Express that facilities real time conversations with your friends when joined in same chat rooms with additional features of text to emoji conversion,scrollable chat and also admin notifying the other group users when someone joins the group or leaves the group.
 
 ## Table of contents
-* [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
 
-
-## General info
-This project was created to develop understanding with socket.io and real time communication.
 
 ## Screenshots
 
